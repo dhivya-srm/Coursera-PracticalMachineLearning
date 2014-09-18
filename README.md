@@ -13,7 +13,7 @@ library(caret)
 ```
 
 ```
-## Loading required package: lattice
+## Loading required package: lattice 
 ## Loading required package: ggplot2
 ```
 
